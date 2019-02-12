@@ -85,7 +85,7 @@ vector<vector<double>> Planner::getNext(double car_x, double car_y, double car_s
         }
     }
 
-    else if (ref_velocity < max_velocity - max_acceleration) // If no obstacles ahead and we're under speed limit, speed up
+    else if (ref_velocity < (max_velocity - 1)) // If no obstacles ahead and we're under speed limit, speed up
         ref_velocity += max_acceleration;
 
     return generate_path(car_x, car_y, car_yaw, prev_size, previous_path_x, previous_path_y, car_s);
