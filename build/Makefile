@@ -150,6 +150,33 @@ src/main.cpp.s:
 	$(MAKE) -f CMakeFiles/path_planning.dir/build.make CMakeFiles/path_planning.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/planner.o: src/planner.cpp.o
+
+.PHONY : src/planner.o
+
+# target to build an object file
+src/planner.cpp.o:
+	$(MAKE) -f CMakeFiles/path_planning.dir/build.make CMakeFiles/path_planning.dir/src/planner.cpp.o
+.PHONY : src/planner.cpp.o
+
+src/planner.i: src/planner.cpp.i
+
+.PHONY : src/planner.i
+
+# target to preprocess a source file
+src/planner.cpp.i:
+	$(MAKE) -f CMakeFiles/path_planning.dir/build.make CMakeFiles/path_planning.dir/src/planner.cpp.i
+.PHONY : src/planner.cpp.i
+
+src/planner.s: src/planner.cpp.s
+
+.PHONY : src/planner.s
+
+# target to generate assembly for a file
+src/planner.cpp.s:
+	$(MAKE) -f CMakeFiles/path_planning.dir/build.make CMakeFiles/path_planning.dir/src/planner.cpp.s
+.PHONY : src/planner.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/planner.o"
+	@echo "... src/planner.i"
+	@echo "... src/planner.s"
 .PHONY : help
 
 

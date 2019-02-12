@@ -4,14 +4,9 @@
 CMakeFiles/path_planning.dir/src/main.cpp.o
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Cholesky
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Dense
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Eigenvalues
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Geometry
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Householder
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Jacobi
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/LU
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/QR
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/SVD
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LDLT.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LLT.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LLT_LAPACKE.h
@@ -145,64 +140,16 @@ CMakeFiles/path_planning.dir/src/main.cpp.o
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/StaticAssert.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/XprHelper.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/./ComplexSchur.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/./RealQZ.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/./RealSchur.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/./Tridiagonalization.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/ComplexEigenSolver.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/ComplexSchur.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/ComplexSchur_LAPACKE.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/EigenSolver.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/GeneralizedEigenSolver.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/HessenbergDecomposition.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/RealQZ.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/RealSchur.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/RealSchur_LAPACKE.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/SelfAdjointEigenSolver_LAPACKE.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Eigenvalues/Tridiagonalization.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/AlignedBox.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/AngleAxis.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/EulerAngles.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/Homogeneous.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/Hyperplane.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/OrthoMethods.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/ParametrizedLine.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/Quaternion.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/Rotation2D.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/RotationBase.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/Scaling.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/Transform.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/Translation.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/Umeyama.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Geometry/arch/Geometry_SSE.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/BlockHouseholder.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/Householder.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/HouseholderSequence.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Jacobi/Jacobi.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/LU/Determinant.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/LU/FullPivLU.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/LU/InverseImpl.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/LU/PartialPivLU.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/LU/PartialPivLU_LAPACKE.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/LU/arch/Inverse_SSE.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR_LAPACKE.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/CompleteOrthogonalDecomposition.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/FullPivHouseholderQR.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/HouseholderQR.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/HouseholderQR_LAPACKE.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/SVD/BDCSVD.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/SVD/JacobiSVD.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/SVD/JacobiSVD_LAPACKE.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/SVD/SVDBase.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/SVD/UpperBidiagonalization.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/Image.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/Kernel.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/RealSvd2x2.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/blas.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke_mangling.h
@@ -213,8 +160,11 @@ CMakeFiles/path_planning.dir/src/main.cpp.o
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseUnaryOps.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/classifier.h
- /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/helpers.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/json.hpp
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/main.cpp
+ /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/planner.h
+CMakeFiles/path_planning.dir/src/planner.cpp.o
+ /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/helpers.h
+ /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/planner.cpp
+ /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/planner.h
  /mnt/c/Users/Yousef/Desktop/projects/CarND-Path-Planning-Project/src/spline.h

@@ -1,5 +1,5 @@
-#ifndef HELPERS_H
-#define HELPERS_H
+#ifndef HELPERS_H_
+#define HELPERS_H_
 
 #include <math.h>
 #include <string>
@@ -154,4 +154,4 @@ vector<double> getXY(double s, double d, const vector<double> &maps_s,
   return {x,y};
 }
 
-#endif  // HELPERS_H
+#endif  // HELPERS_H_
