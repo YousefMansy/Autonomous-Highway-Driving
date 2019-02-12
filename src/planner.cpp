@@ -51,7 +51,7 @@ vector<vector<double>> Planner::getNext(double car_x, double car_y, double car_s
             check_car_s += ((double)prev_size * .02 * check_speed);
 
             // Check gap size
-            if ((check_car_s > car_s) && ((check_car_s - car_s) < 25))
+            if ((check_car_s > car_s) && ((check_car_s - car_s) < 30))
             {
                 // Flag for lowering reference velocity to avoid crashing and ask for a lange change
                 too_close = true;
@@ -91,12 +91,12 @@ vector<vector<double>> Planner::getNext(double car_x, double car_y, double car_s
     return generate_path(car_x, car_y, car_yaw, prev_size, previous_path_x, previous_path_y, car_s);
 }
 
-bool Planner::can_switch_lane(int lane, vector<vector<double>> sensor_fusion, int prev_size, double car_s)
+bool Planner::can_switch_lane(int target_lane, vector<vector<double>> sensor_fusion, int prev_size, double car_s)
 {
     for (int i = 0; i < sensor_fusion.size(); i++)
     {
         float d = sensor_fusion[i][6];
-        if (d < (2 + 4 * lane + 2) && d > (2 + 4 * lane - 2))
+        if (d < (2 + 4 * target_lane + 2) && d > (2 + 4 * target_lane - 2))
         {
             double vx = sensor_fusion[i][3];
             double vy = sensor_fusion[i][4];
@@ -108,7 +108,7 @@ bool Planner::can_switch_lane(int lane, vector<vector<double>> sensor_fusion, in
             check_car_s += ((double)prev_size * .02 * check_speed);
 
             // Check gap size
-            if (abs(check_car_s - car_s) < 20)
+            if (abs(check_car_s - car_s) < 30)
                 return false;
         }
     }
