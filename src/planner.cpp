@@ -214,7 +214,7 @@ vector<vector<double>> Planner::generate_path(double car_x, double car_y, double
         x_add_on = x_point;
 
         double x_ref = x_point;
-        double y_ref = y_point;
+        double y_ref = y_point; 
 
         // Rotate back to normal
         x_point = (x_ref * cos(ref_yaw) - y_ref * sin(ref_yaw));
