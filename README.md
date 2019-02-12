@@ -140,6 +140,8 @@ Then we use it to calculate N
 double N = (target_dist / (.02 * ref_velocity / 2.24));
 ```
 
+Finally we fill the path with our spline points, spaced out at the calculated `N`.
+
 
 
 
