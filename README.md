@@ -1,5 +1,13 @@
+[//]: # (Image References)
+
+[image1]: ./pictures/left_turn_1.gif "left_turn_1"
+[image2]: ./pictures/right_turn_1.gif "right_turn_1"
+[image3]: ./pictures/right_turn_2.gif "right_turn_2"
+
 # Autonomous Highway Driving
 The aim of this project is to design a path planner that is able to create smooth, safe paths for the car to follow along a 3 lane highway with traffic. A successful path planner will be able to keep inside its lane, avoid hitting other cars, and pass slower moving traffic all by using localization, sensor fusion, and map data.
+
+![alt text][image3] ![alt text][image2]
 
 ### Description
 In this project, the goal is to safely navigate around a virtual highway with other traffic that is driving +-10 MPH of the 50 MPH speed limit. The simulator provides the car's localization and sensor fusion data, there is also a sparse map list of waypoints around the highway. The car tries to go as close as possible to the 50 MPH speed limit, which means passing slower traffic when possible. The car avoids hitting other cars at all cost as well as makes sure to drive inside of the marked road lanes at all times, unless going from one lane to another. The car is able to make a complete loop around the 6946m highway. Since the car is trying to go 50 MPH, it should take a little over 5 minutes to complete 1 loop. Also the car doesn't experience total acceleration over 10 m/s^2 and jerk over than 10 m/s^3.
